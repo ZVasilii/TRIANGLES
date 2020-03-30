@@ -3,9 +3,9 @@
 
 int number_of_triangs(FILE* f)
 {
-	int num = 0;
-	fscanf(f, "%d", &num);
-	return num;
+	int number = 0;
+	fscanf(f, "%d", &number);
+	return number;
 
 }
 

@@ -16,6 +16,8 @@ struct triang
 	double x3;
 	double y3;
 
+
+
 	double square;
 };
 
